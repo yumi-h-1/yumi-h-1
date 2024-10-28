@@ -17,7 +17,7 @@ I'm Yumi, and I work on data science and data analysis projects.
 
 ---
 
-[Linkedin](https://www.linkedin.com/in/yumi-h)
+[**Linkedin**](https://www.linkedin.com/in/yumi-h)
 
 <!--
 **yumi-h-1/yumi-h-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
