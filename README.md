@@ -1,5 +1,7 @@
 ## Hi there 👋
+
 Welcome to my page!
+
 I'm Yumi, currently living in London, UK, and I work on data science and data analysis projects.
 
 ---
