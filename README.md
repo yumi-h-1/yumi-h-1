@@ -6,8 +6,11 @@ I'm Yumi, and I work on data science and data analysis projects.
 ---
 ### A little more about me
 :round_pushpin: Currently living in London, UK
+
 :computer: Python, PostgreSQL, R, MATLAB
+
 :bar_chart: Tableau
+
 :cloud: PySpark, Google Cloud Platform, AWS S3/EC2(AWS Academy Cloud Foundations Certified)
 
 ---
