@@ -5,7 +5,7 @@ Welcome to my page!
 I'm Yumi, currently living in London, UK, and I work on data science and data analysis projects.
 
 ---
-[Linkedin](www.linkedin.com/in/yumi-h)
+[Linkedin](https://www.linkedin.com/in/yumi-h)
 
 <!--
 **yumi-h-1/yumi-h-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
