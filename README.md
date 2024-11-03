@@ -9,7 +9,7 @@ I'm Yumi, and I work on data science and data analysis projects.
 ### A little more about me
 :round_pushpin: Currently living in London, UK
 
-:computer: Python, PostgreSQL, R, MATLAB
+:computer: Python, PostgreSQL, Microsoft Excel, R, MATLAB
 
 :bar_chart: Tableau
 
