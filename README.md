@@ -2,7 +2,7 @@
 
 Welcome to my page!
 
-I'm Yumi, working as a data scientist in London on image classification, signal forecasting/prediction and data analysis projects.
+I'm Yumi, working as a data scientist in London on medical imaging and signal processing.
 
 ---
 
