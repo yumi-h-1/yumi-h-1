@@ -13,7 +13,7 @@ I'm Yumi, working as a data scientist in London on medical imaging and signal pr
 
 :bar_chart: Tableau
 
-:cloud: PySpark, Google Cloud Platform, AWS S3/EC2(AWS Academy Cloud Foundations Certified)
+:cloud: PySpark, Google Cloud Platform, AWS (AWS Academy Cloud Foundations Certified)
 
 ---
 
