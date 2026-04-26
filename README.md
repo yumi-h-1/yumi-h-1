@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my page!
+Welcome to my github!
 
 I'm Yumi, working as a data scientist in London on medical images and signal processing in health care.
 
