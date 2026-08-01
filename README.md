@@ -2,7 +2,7 @@
 
 Welcome to my github!
 
-I'm Yumi, working as a data scientist in London on medical images and signal processing in health care.
+I'm Yumi, working as a data scientist in London on medical images and biosignal processing in healthcare and clinical sector.
 
 ---
 
