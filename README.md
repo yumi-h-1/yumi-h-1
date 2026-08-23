@@ -1,19 +1,25 @@
 ## Hi there 👋
 
-Welcome to my github!
+Welcome to my GitHub!
 
-I'm Yumi, working as a data scientist in London on medical images and biosignal processing in healthcare and clinical sector.
+I'm Yumi, a Data Scientist currently based in London. I specialise in medical image analysis and biosignal processing with a focus on applications in the life sciences, healthcare, and clinical sectors.
+
+My interests, however, extend beyond healthcare. I enjoy applying LLMs, computer vision, or statistical modelling to solve real-world problems, improve processes, and build automation tools for a wide range of businesses and applications.
 
 ---
 
 ### A little more about me
 :round_pushpin: Currently living in London, UK
 
-:computer: Python, PostgreSQL, Microsoft Excel, R, MATLAB
+:computer: Python, SQL (PostgreSQL), R, Microsoft Excel, Git, Docker, FastAPI, Jira, Confluence
 
-:bar_chart: Tableau
+⚙️: PyTorch, TensorFlow/Keras, OpenCV, Torchvision, Pillow, ONNX, Scikit-learn, Pandas, NumPy 
 
-:cloud: PySpark, Google Cloud Platform, AWS (AWS Academy Cloud Foundations Certified)
+🔗: HuggingFace, LangChain, LangGraph, MCP
+
+:bar_chart: Matplotlib, Seaborn, Plotly, Tableau, Folium 
+
+:cloud: AWS (RDS, EC2, S3), GCP (BigQuery, Compute Engine, Cloud Run, Cloud Storage), PySpark 
 
 ---
 
